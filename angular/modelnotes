@@ -1,0 +1,9 @@
+model
+controller - manages the presentation of the visual appearance
+	-can work with multiple views
+	-standalone piece that is the glue between model and the view
+
+view
+
+
+$scope is the "glue" which manages relationship between model and view
